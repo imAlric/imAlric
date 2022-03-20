@@ -5,7 +5,7 @@
 
 #### About Me 🤓
 
-Hey! I'm Alric! I have 17 years and I'm a brazilian front-end developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music!
+Hey! I'm Alric! I have 17 years and I'm a brazilian back-end developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music!
 
 <br />
 
@@ -25,6 +25,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />][Python]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />][GitHub]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
@@ -36,9 +37,9 @@ These are the languages and tools that I'm using or learning how to use ;)
 ---
 
 #### Some extra stuff about me! ✨
-📖 I'm currently learning HTML5, CSS3 and JS!
+📖 I'm currently learning Python!
 <br />
-📑 I plan on start learning Python and C++ 'til the end of 2021.
+📑 I plan getting good at Python 'til the end of 2022.
 <br />
 📆 My birthday is August 11!
 <br />
@@ -48,7 +49,10 @@ These are the languages and tools that I'm using or learning how to use ;)
 <br />
 🎨 I love to draw and I really enjoy doing graphic design. I use Photoshop all the time, even for silly things!
 <br />
-👓 I am severely nearsighted, so I have to use glasses all the time!
+
+📸 I really enjoy photography!
+
+<br />👓 I am severely nearsighted, so I have to use glasses all the time!
 <br />
 🎮 My favorite game genre is RPG, and my favorite game is Persona 5.
 <br />
@@ -69,6 +73,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 [HTML5]: https://www.w3schools.com/html/
 [CSS3]: https://www.w3schools.com/css/default.asp
 [JavaScript]: https://www.w3schools.com/js/default.asp
+[Python]: https://www.python.org/
 [GitHub]: https://github.com/
 [Git]: https://git-scm.com/
 [Windows]: https://www.microsoft.com/pt-br/windows/
