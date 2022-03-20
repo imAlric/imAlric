@@ -49,9 +49,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 <br />
 🎨 I love to draw and I really enjoy doing graphic design. I use Photoshop all the time, even for silly things!
 <br />
-
 📸 I really enjoy photography!
-
 <br />👓 I am severely nearsighted, so I have to use glasses all the time!
 <br />
 🎮 My favorite game genre is RPG, and my favorite game is Persona 5.
