@@ -5,7 +5,7 @@
 
 #### About Me 🤓
 
-Hey! I'm Alric! I have 17 years and I'm a brazilian back-end developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music!
+Hey! I'm Alric! I have 18 years and I'm a brazilian back-end developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music!
 
 <br />
 
@@ -26,6 +26,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />][Python]
+[<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />][PhP]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />][GitHub]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
@@ -37,9 +38,9 @@ These are the languages and tools that I'm using or learning how to use ;)
 ---
 
 #### Some extra stuff about me! ✨
-📖 I'm currently learning Python!
+📖 I'm currently learning PhP and OOP!
 <br />
-📑 I plan getting good at Python 'til the end of 2022.
+📑 I plan on learning and applying OOP onto a next big project of mine.
 <br />
 📆 My birthday is August 11!
 <br />
@@ -72,6 +73,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 [CSS3]: https://www.w3schools.com/css/default.asp
 [JavaScript]: https://www.w3schools.com/js/default.asp
 [Python]: https://www.python.org/
+[PhP]: https://www.php.net/
 [GitHub]: https://github.com/
 [Git]: https://git-scm.com/
 [Windows]: https://www.microsoft.com/pt-br/windows/
