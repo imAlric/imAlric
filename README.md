@@ -5,7 +5,7 @@
 
 #### About Me 🤓
 
-Hey! I'm Alric! I have 18 years and I'm a brazilian back-end developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music!
+Hey! I'm Alric! I have 18 years and I'm a brazilian back-end developer that is learning a lot of stuff right now, trying to be full-stack. Besides coding, I really enjoy playing video-games and listening to music!
 
 <br />
 
@@ -24,13 +24,20 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" />][VSCode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />][Bootstrap]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />][Python]
 [<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />][PhP]
+[<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" />][Laravel]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />][GitHub]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 [<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/windows8/windows8-original.svg" />][Windows]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" />][PostgreSQL]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />][MySQL]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" />][Figma]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" />][Photoshop]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" />][Illustrator]
 
 <br />
 <br />
@@ -38,9 +45,9 @@ These are the languages and tools that I'm using or learning how to use ;)
 ---
 
 #### Some extra stuff about me! ✨
-📖 I'm currently learning PhP and OOP!
+📖 I'm currently learning Laravel for PHP!
 <br />
-📑 I plan on learning and applying OOP onto a next big project of mine.
+📑 I'm planning on learning a lot of stuff so I can be a better full-stack.
 <br />
 📆 My birthday is August 11!
 <br />
@@ -78,3 +85,10 @@ These are the languages and tools that I'm using or learning how to use ;)
 [Git]: https://git-scm.com/
 [Windows]: https://www.microsoft.com/pt-br/windows/
 [Terminal]: https://pt.wikipedia.org/wiki/Cmd.exe
+[PostgreSQL]: https://www.postgresql.org/
+[MySQL]: https://www.mysql.com/
+[Figma]: https://www.figma.com/
+[Photoshop]: https://www.adobe.com/br/products/photoshop.html
+[Illustrator]: https://www.adobe.com/br/products/illustrator.html
+[Laravel]: https://www.laravel.com/
+[Bootstrap]: https://www.getbootstrap.com/
