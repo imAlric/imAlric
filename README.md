@@ -26,6 +26,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />][Bootstrap]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />][React]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />][Python]
 [<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />][PhP]
 [<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" />][Laravel]
@@ -45,9 +46,9 @@ These are the languages and tools that I'm using or learning how to use ;)
 ---
 
 #### Some extra stuff about me! ✨
-📖 I'm currently learning Laravel for PHP!
+📖 I'm currently learning Laravel and React!
 <br />
-📑 I'm planning on learning a lot of stuff so I can be a better full-stack.
+📑 I'm planning on integrating Laravel and React onto my next project.
 <br />
 📆 My birthday is August 11!
 <br />
@@ -79,6 +80,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 [HTML5]: https://www.w3schools.com/html/
 [CSS3]: https://www.w3schools.com/css/default.asp
 [JavaScript]: https://www.w3schools.com/js/default.asp
+[React]: https://pt-br.reactjs.org/
 [Python]: https://www.python.org/
 [PhP]: https://www.php.net/
 [GitHub]: https://github.com/
