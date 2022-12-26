@@ -1,6 +1,6 @@
 ## **Hi! I'm Alric! 👋✨**
 
-<img style="width:800px" src="./Resources/newbanner.png"> 
+<img src="./Resources/newbanner.png"> 
 <br />
 
 #### About Me 🤓
