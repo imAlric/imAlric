@@ -1,11 +1,11 @@
 ## **Hi! I'm Alric! 👋✨**
 
-<img style="width:800px" src="./Resources/banner.png"> 
+<img style="width:800px" src="./Resources/newbanner.png"> 
 <br />
 
 #### About Me 🤓
 
-Hey! I'm Alric! I have 18 years and I'm a brazilian full-stack developer that is learning a lot of stuff right now, trying to be full-stack. Besides coding, I really enjoy playing video-games and listening to music!
+Hey! I'm Alric! I have 18 years and I'm a brazilian full-stack developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music!
 
 <br />
 
