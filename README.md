@@ -1,11 +1,11 @@
 ## **Hi! I'm Alric! 👋✨**
 
-<img src="/Resources/banner.png"> 
+<img style="width:800px" src="./Resources/banner.png"> 
 <br />
 
 #### About Me 🤓
 
-Hey! I'm Alric! I have 18 years and I'm a brazilian back-end developer that is learning a lot of stuff right now, trying to be full-stack. Besides coding, I really enjoy playing video-games and listening to music!
+Hey! I'm Alric! I have 18 years and I'm a brazilian full-stack developer that is learning a lot of stuff right now, trying to be full-stack. Besides coding, I really enjoy playing video-games and listening to music!
 
 <br />
 
@@ -26,6 +26,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />][Bootstrap]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" />][TypeScript]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />][React]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />][Python]
 [<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />][PhP]
@@ -80,6 +81,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 [HTML5]: https://www.w3schools.com/html/
 [CSS3]: https://www.w3schools.com/css/default.asp
 [JavaScript]: https://www.w3schools.com/js/default.asp
+[TypeScript]: https://www.typescriptlang.org/
 [React]: https://pt-br.reactjs.org/
 [Python]: https://www.python.org/
 [PhP]: https://www.php.net/
