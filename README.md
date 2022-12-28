@@ -47,9 +47,9 @@ These are the languages and tools that I'm using or learning how to use ;)
 ---
 
 #### Some extra stuff about me! ✨
-📖 I'm currently learning Laravel and React!
+📖 I'm currently mastering React!
 <br />
-📑 I'm planning on integrating Laravel and React onto my next project.
+📑 I'm planning on learn React to its fullest.
 <br />
 📆 My birthday is August 11!
 <br />
@@ -62,9 +62,9 @@ These are the languages and tools that I'm using or learning how to use ;)
 📸 I really enjoy photography!
 <br />👓 I am severely nearsighted, so I have to use glasses all the time!
 <br />
-🎮 My favorite game genre is RPG, and my favorite game is Persona 5.
+🎮 My favorite game genre is RPG, and my favorite game is Risk of Rain 2.
 <br />
-🎬 My favorite movie is Interstelar!
+🎬 My favorite movie is Interstellar!
 <br />
 📺 My favorite anime is Fullmetal Alchemist: Brotherhood, and my favorite TV-show is Stranger Things.
 
