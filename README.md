@@ -3,25 +3,26 @@
 <img src="./Resources/newbanner.png"> 
 <br />
 
-#### About Me 🤓
+## About Me 🤓
 
 Hey! I'm Alric! I have 18 years and I'm a brazilian full-stack developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music!
 
 <br />
 
-#### Social Media 👤
+## Social Media 👤
 These are my social media! Make sure to follow me if you don't wanna miss anything about me! I do use my Instagram a lot ;)
 
-[<img align="left" alt="alric | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][LinkedIn]
-[<img align="left" alt="alric | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram]
-[<img align="left" alt="alric | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][Twitter]
+[<img align="left" alt="alric | LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/0e0d832a301a67af8b278ff66d87879f16fc8c34/images/svg/linkedin.svg"/>][LinkedIn]
+[<img align="left" alt="alric | Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/0e0d832a301a67af8b278ff66d87879f16fc8c34/images/svg/instagram.svg"/>][Instagram]
+[<img align="left" alt="alric | Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/0e0d832a301a67af8b278ff66d87879f16fc8c34/images/svg/twitter.svg"/>][Twitter]
 
 <br />
 
-#### Languages and Tools 💻
+## Languages and Tools 💻
 These are the languages and tools that I'm using or learning how to use ;)
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" />][VSCode]
+[<img align="left" alt="IntelliJ Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][IntelliJ]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />][Bootstrap]
@@ -30,26 +31,27 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />][React]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />][Python]
 [<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />][PhP]
-[<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" />][Laravel]
+[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" />][Laravel]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" />][Java]
+[<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" />][Spring]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />][GitHub]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 [<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/windows8/windows8-original.svg" />][Windows]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" />][PostgreSQL]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />][MySQL]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" />][Figma]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" />][Photoshop]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" />][Illustrator]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />][MySQL]
+[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" />][Figma]
+[<img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" />][Photoshop]
+[<img align="left" alt="Illustrator" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" />][Illustrator]
 
 <br />
 <br />
 
----
 
-#### Some extra stuff about me! ✨
-📖 I'm currently mastering React!
+## Some extra stuff about me! ✨
+📖 I'm currently learning Java and Spring Framework!
 <br />
-📑 I'm planning on learn React to its fullest.
+📑 I'm planning on beginning to learn game development.
 <br />
 📆 My birthday is August 11!
 <br />
@@ -70,9 +72,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 
 <br />
 
----
-
-#### 🌌 Welp, that's who I am! Thanks for being here and have fun coding!
+## 🌌 Welp, that's who I am! Thanks for being here and have fun coding!
 
 [LinkedIn]: https://www.linkedin.com/in/imalric/
 [Instagram]: https://www.instagram.com/alec_o_alric/
@@ -96,3 +96,6 @@ These are the languages and tools that I'm using or learning how to use ;)
 [Illustrator]: https://www.adobe.com/br/products/illustrator.html
 [Laravel]: https://www.laravel.com/
 [Bootstrap]: https://www.getbootstrap.com/
+[Java]:https://www.java.com/pt-BR/
+[Spring]:https://spring.io/
+[IntelliJ]:https://www.jetbrains.com/pt-br/idea/
