@@ -5,9 +5,7 @@
 
 ## About Me 🤓
 
-Hey! I'm Alric! I have 18 years and I'm a brazilian full-stack developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music!
-
-<br />
+Hey! I'm Alric! I have 18 years and I'm a brazilian full-stack developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music! <br/>
 
 ## Social Media 👤
 These are my social media! Make sure to follow me if you don't wanna miss anything about me! I do use my Instagram a lot ;)
@@ -25,9 +23,9 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="IntelliJ Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][IntelliJ]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />][Bootstrap]
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />][Bootstrap]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" />][TypeScript]
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" />][TypeScript]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />][React]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />][Python]
 [<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />][PhP]
@@ -44,7 +42,6 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" />][Photoshop]
 [<img align="left" alt="Illustrator" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" />][Illustrator]
 
-<br />
 <br />
 
 
