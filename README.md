@@ -6,18 +6,16 @@
 ## About Me 🤓
 
 Hey! I'm Alric! I have 18 years and I'm a brazilian full-stack developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music! 
-
-<br/><br/>
-
+<br/>
+<br/>
 ## Social Media 👤
 These are my social media! Make sure to follow me if you don't wanna miss anything about me! I do use my Instagram a lot ;)
 
 [<img align="left" alt="alric | LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/0e0d832a301a67af8b278ff66d87879f16fc8c34/images/svg/linkedin.svg"/>][LinkedIn]
 [<img align="left" alt="alric | Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/0e0d832a301a67af8b278ff66d87879f16fc8c34/images/svg/instagram.svg"/>][Instagram]
 [<img align="left" alt="alric | Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/0e0d832a301a67af8b278ff66d87879f16fc8c34/images/svg/twitter.svg"/>][Twitter]
-
-<br/><br/>
-
+<br/>
+<br/>
 ## Languages and Tools 💻
 These are the languages and tools that I'm using or learning how to use ;)
 
@@ -43,9 +41,8 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" />][Figma]
 [<img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" />][Photoshop]
 [<img align="left" alt="Illustrator" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" />][Illustrator] 
-
-<br/><br/>
-
+<br/>
+<br/>
 ## Some extra stuff about me! ✨
 📖 I'm currently learning Java and Spring Framework!
 <br />
@@ -67,7 +64,6 @@ These are the languages and tools that I'm using or learning how to use ;)
 🎬 My favorite movie is Interstellar!
 <br />
 📺 My favorite anime is Fullmetal Alchemist: Brotherhood, and my favorite TV-show is Stranger Things.
-
 <br />
 
 ## 🌌 Welp, that's who I am! Thanks for being here and have fun coding!
