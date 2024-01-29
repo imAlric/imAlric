@@ -5,7 +5,7 @@
 
 ## About Me 🤓
 
-Hey! I'm Alric! I have 18 years and I'm a brazilian full-stack developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music! 
+Hey! I'm Alric! I am 19 years old and I'm a brazilian full-stack developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music! 
 <br/>
 <br/>
 ## Social Media 👤
@@ -65,6 +65,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 <br />
 📺 My favorite anime is Fullmetal Alchemist: Brotherhood, and my favorite TV-show is Stranger Things.
 <br />
+🎸 I really enjoy writing, composing and listening to music! I mainly play electric and acoustic guitar.
 
 ## 🌌 Welp, that's who I am! Thanks for being here and have fun coding!
 
