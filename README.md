@@ -24,6 +24,7 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />][Bootstrap]
+[<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" />][Tailwind]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" />][TypeScript]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />][React]
@@ -32,10 +33,15 @@ These are the languages and tools that I'm using or learning how to use ;)
 [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" />][Laravel]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" />][Java]
 [<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" />][Spring]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flutter/flutter-plain.svg" />][Flutter]
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-plain.svg" />][Angular]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-plain.svg" />][Docker]
+[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kubernetes/kubernetes-plain.svg" />][Kubernetes]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />][GitHub]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 [<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/windows8/windows8-original.svg" />][Windows]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" />][Linux]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" />][PostgreSQL]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />][MySQL]
 [<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" />][Figma]
@@ -94,3 +100,9 @@ These are the languages and tools that I'm using or learning how to use ;)
 [Java]:https://www.java.com/pt-BR/
 [Spring]:https://spring.io/
 [IntelliJ]:https://www.jetbrains.com/pt-br/idea/
+[Flutter]:https://flutter.dev/
+[Angular]:https://angular.io/
+[Docker]:https://www.docker.com/
+[Kubernetes]:https://kubernetes.io/pt-br/
+[Linux]:https://www.linux.org/
+[Tailwind]:https://tailwindcss.com/
