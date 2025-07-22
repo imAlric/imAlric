@@ -5,7 +5,7 @@
 
 ## About Me 🤓
 
-Hey! I'm Alric! I am 19 years old and I'm a brazilian full-stack developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music! 
+Hey! I'm Alric! I am 21 years old and I'm a brazilian full-stack developer that is learning a lot of stuff right now. Besides coding, I really enjoy playing video-games and listening to music! 
 <br/>
 <br/>
 ## Social Media 👤
@@ -50,22 +50,17 @@ These are the languages and tools that I'm using or learning how to use ;)
 <br/>
 <br/>
 ## Some extra stuff about me! ✨
-📖 I'm currently learning Java and Spring Framework!
-<br />
-📑 I'm planning on beginning to learn game development.
-<br />
 📆 My birthday is August 11!
 <br />
 ✨ My real name is Alec.
 <br />
-🎶 My favourite genre of music is hard-rock and heavy metal. But I do enjoy all kind of music! Mainly indie, EDM and MPB (Popular Brazilian Music).
+🎶 My favourite genre of music is acid-jazz. But I do enjoy all kind of music! Mainly indie, EDM and MPB (Popular Brazilian Music).
 <br />
 🎨 I love to draw and I really enjoy doing graphic design. I use Photoshop all the time, even for silly things!
 <br />
 📸 I really enjoy photography!
-<br />👓 I am severely nearsighted, so I have to use glasses all the time!
 <br />
-🎮 My favorite game genre is RPG, and my favorite game is Risk of Rain 2.
+🎮 My favorite game genre is RPG, and my favorite game is Persona 5.
 <br />
 🎬 My favorite movie is Interstellar!
 <br />
